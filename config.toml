@@ -1,0 +1,4 @@
+baseURL = "https://sheetmusicbuamplonik.vercel.app"
+languageCode = "en-us"
+title = "Piano Sheet Music Easy"
+theme = "tale-hugo-master"
